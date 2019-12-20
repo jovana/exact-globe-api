@@ -25,12 +25,12 @@ xml_param = {
     'LastName': 'van Amerongen',
     'MobileNumber': '08812345678',
     'PhoneNumber': '0882445433',
-    'Address': 'Randweg 48',
-    'City': 'Beverwijk',
-    'Zip': '1948NS',
-    'Email': 'support@braincap.nl',
+    'Address': 'Street 123',
+    'City': 'New York',
+    'Zip': '90210',
+    'Email': 'support@customer.nl',
     'Country': 'NL',
-    'WebAddress': 'https://braincap.nl/',
+    'WebAddress': 'https://google.nl/',
     'TransactionKey': ''
 }
 
